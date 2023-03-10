@@ -29,7 +29,7 @@
 		@apply text-lg font-light leading-relaxed;
 	}
 	.small {
-		@apply font-normal leading-normal;
+		@apply leading-normal;
 	}
 	blockquote {
 		@apply bg-blue-500 bg-opacity-10 border-blue-700 border-l-4 border-solid pl-5 pr-1 py-6 rounded-bl rounded-br rounded-tl rounded-tr;

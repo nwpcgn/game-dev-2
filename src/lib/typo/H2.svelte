@@ -4,6 +4,6 @@
 
 <style>
 	h2 {
-		@apply text-5xl font-normal leading-normal;
+		@apply text-5xl leading-normal;
 	}
 </style>

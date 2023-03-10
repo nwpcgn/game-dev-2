@@ -4,6 +4,6 @@
 
 <style>
 	h6 {
-		@apply text-xl font-normal leading-normal;
+		@apply text-xl leading-normal;
 	}
 </style>
